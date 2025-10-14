@@ -1,4 +1,4 @@
-# CV-Zone---APC
+# CV-Zone Functions and Student Overview
 CV Zone projects for students of APC at SAS
 # CVZone Library Functions Reference
 
